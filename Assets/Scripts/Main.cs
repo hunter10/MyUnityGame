@@ -7,4 +7,9 @@ public class Main : MonoBehaviour {
     {
         Debug.Log("ok");
     }
+
+    public void ClcikCancel()
+    {
+        Debug.Log("Cancel");
+    }
 }
